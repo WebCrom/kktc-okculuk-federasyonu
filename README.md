@@ -3,7 +3,7 @@
 Bu repository, Kuzey Kıbrıs Türk Federasyonu (KKTF) için geliştirilmiş bir projedir.
 
 ## Proje Hakkında
-Bu sistem, federasyonun ihtiyaçlarına yönelik özelleştirilmiş bir çözüm sunar. Kullanıcılar, ...
+Bu sistem, federasyonun ihtiyaçlarına yönelik özelleştirilmiş bir çözüm sunar. Kullanıcılar, yarışmalara katılabilir, lisanslarını satın alabilir, takımlar oluşturabilir ve takımlarına üyeler atayabilirler. Admin paneli ile kullanıcılar ve takımlar üzerinde tam yönetim yapılabilir.
 
 ## Site Adresi
 [Website URL](https://kktcof.org/)
